@@ -1,0 +1,75 @@
+.container1 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThgP8J5D_Q4QnPaebr3RcTBpzb6frzQg0hlQ&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.card1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: #f0f0f0;
+}
+
+.aboutme {
+    margin-top: 30px;
+    border: solid 2px white;
+}
+
+.container9{
+    text-align: left;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #dc3545;
+  }
+
+  .lingkaran i {
+    position: relative;
+    top: 30px;
+  }
+
+  
+.gambar img {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border: solid 2px black;
+    width: 300px;
+    height: 300px;
+    background-color: black;
+}
+
+.gambar {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXwCcM-n6_0FGS_uZWIblwhNlpEV_ehEsSkxp9sAaANKSewtk587lIZGfvRXX3cbVpqko&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+}
+
+.gambar h1{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.container7 {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.container11 {
+    margin-left: 50px;
+}
+
+.carousel-item {
+    margin-top: 50px;
+}
